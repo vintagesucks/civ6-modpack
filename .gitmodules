@@ -13,3 +13,6 @@
 [submodule "Civ6-YnAMP"]
 	path = Civ6-YnAMP
 	url = https://github.com/Gedemon/Civ6-YnAMP
+[submodule "civ6-capslock"]
+	path = civ6-capslock
+	url = https://github.com/bszonye/civ6-capslock
