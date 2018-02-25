@@ -1,6 +1,9 @@
 # civ6-modpack
 Multiplayer Mod Pack for Civilization VI: Rise and Fall
 
+## Todo
+* [ ] Replace BTS, BES and MoreLenses with CQUI_Community-Edition as soon as [CQUI_Community-Edition#283](https://github.com/Azurency/CQUI_Community-Edition/issues/283) is done
+
 ## Setup
 
 Install [GitHub Desktop](https://desktop.github.com/)
