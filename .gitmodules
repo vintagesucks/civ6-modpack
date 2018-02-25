@@ -7,3 +7,6 @@
 [submodule "MoreLenses"]
 	path = MoreLenses
 	url = https://github.com/astog/MoreLenses
+[submodule "BES"]
+	path = BES
+	url = https://github.com/astog/BES
