@@ -1,3 +1,6 @@
 [submodule "BTS"]
 	path = BTS
 	url = https://github.com/astog/BTS
+[submodule "distant-multiplayer-start"]
+	path = distant-multiplayer-start
+	url = https://github.com/kevincoghlan/distant-multiplayer-start
