@@ -4,3 +4,6 @@
 [submodule "distant-multiplayer-start"]
 	path = distant-multiplayer-start
 	url = https://github.com/kevincoghlan/distant-multiplayer-start
+[submodule "MoreLenses"]
+	path = MoreLenses
+	url = https://github.com/astog/MoreLenses
