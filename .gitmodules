@@ -10,3 +10,6 @@
 [submodule "BES"]
 	path = BES
 	url = https://github.com/astog/BES
+[submodule "Civ6-YnAMP"]
+	path = Civ6-YnAMP
+	url = https://github.com/Gedemon/Civ6-YnAMP
